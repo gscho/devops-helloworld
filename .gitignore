@@ -1,0 +1,9 @@
+# Eclipse
+.settings
+.classpath
+.project
+# Mac OS
+.DS_Store
+# Java
+target
+results/
